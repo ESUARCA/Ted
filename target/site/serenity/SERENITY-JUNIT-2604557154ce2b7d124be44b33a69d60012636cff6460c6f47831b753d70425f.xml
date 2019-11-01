@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Buy ticket at Vivacolombia" skipped="0" tests="1" time="1.35" timestamp="2019-11-01 07:05:13"><testcase name="User buys ticket to travel to Peru"><error message="The actor tati does not have the ability to browse the web" type="net.serenitybdd.screenplay.exceptions.ActorCannotBrowseTheWebException">The actor tati does not have the ability to browse the web</error><system-err>The actor tati does not have the ability to browse the web&#13;
+com.accenture.tasks.Open2.performAs(Open2.java:18)&#13;
+com.accenture.stepdefinitions.BuyInVivacolombia.iAmOnThePageOfVivacolombia(BuyInVivacolombia.java:32)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>
